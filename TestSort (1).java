@@ -1,12 +1,6 @@
 import java.util.Arrays;
 
-/**
- * Created with IntelliJ IDEA.
- * Description:
- * User: GaoBo
- * Date: 2021-01-31
- * Time: 12:17
- */
+
 public class TestSort {
 
     /**
